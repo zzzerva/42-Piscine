@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724435655 source:c:\users\asus\desktop\ecole\ex04\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1724435726 source:c:\users\asus\desktop\ecole\ex04\ft_is_negative.c
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724434718 source:c:\users\asus\desktop\ecole\ex02\ft_print_reverse_alphabet.c
+
+1724434718 source:c:\users\asus\desktop\ecole\ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+
